@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project predicts house prices using Machine Learning. 
-The model is built using XGBoost Regressor.
+The model is built using an XGBoost Regressor.
 
 ## 📊 Dataset Features
 - Area
