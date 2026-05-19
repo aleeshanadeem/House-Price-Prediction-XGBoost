@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction using XGBoost
 
-## 📌 Project Overview
+##  Project Overview
 This project predicts house prices using Machine Learning. 
 The model is built using an XGBoost Regressor.
 
@@ -28,7 +28,7 @@ The model is built using an XGBoost Regressor.
 - Scikit-learn
 
 ## 📈 Model Performance
-(Add your R2 score / RMSE here)
+( R2 score / RMSE)
 
 ## 🚀 How to Run
 1. Clone the repository
