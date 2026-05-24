@@ -35,7 +35,7 @@ The model is built using an XGBoost Regressor.
 2. Install required libraries
 3. Run the notebook
 
-## 👩‍💻 Author
+##  Author
 
 
 Aleesha Nadeem
