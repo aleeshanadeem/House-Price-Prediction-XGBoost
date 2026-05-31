@@ -11,7 +11,7 @@ The model is built using an XGBoost Regressor.
 - Bathrooms
 - Price (Target)
 
-## 🔍 Workflow
+##  Workflow
 1. Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
