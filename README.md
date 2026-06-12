@@ -29,7 +29,7 @@ The model is built using an XGBoost Regressor.
 
 ## 📈 Model Performance
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository
 2. Install required libraries
 3. Run the notebook
